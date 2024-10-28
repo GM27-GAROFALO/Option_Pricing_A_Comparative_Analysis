@@ -60,7 +60,7 @@ This study compares traditional pricing models with machine learning approaches 
 Option_pricing_A_comparative_analysis/
 ├── 📂 data_and_docs/      # Original dataset and preprocessing
 ├── 📂 codes/             # Implementation of pricing methods
-├── 📂 thesis/           # my master degree thesis 
+
 ```
 
 ### 📊 Dataset Contents
@@ -127,7 +127,7 @@ install_if_missing <- function(package) {
 invisible(sapply(required_packages, install_if_missing))
 
 ---
-## 📈 Results Directory
+## 📈 Results 
 
 - 📊 Model performance metrics
 - 📉 Error distribution analysis
