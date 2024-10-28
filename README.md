@@ -84,7 +84,7 @@ The script performs the following operations:
 -σ₂: (2 years)
 -σ₃: (3 years)
 
-with respect to the final transitions
+with respect to the final transitions data
 
 
 3.Merges volatility data with the original options dataset
