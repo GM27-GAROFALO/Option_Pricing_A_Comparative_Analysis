@@ -1,5 +1,5 @@
 # 📈 Financial Options Pricing
-## A Comparative Analysis between Classical Models and Machine Learning
+## A Comparative Analysis between Theoretical Models and Machine Learning approach
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
