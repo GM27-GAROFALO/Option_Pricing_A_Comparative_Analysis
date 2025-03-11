@@ -54,12 +54,17 @@ This study compares traditional pricing models with machine learning approaches 
 
 ---
 
-## 📦 Repository Structure
-
+## **📦 Repository Structure**
 ```
 Option_pricing_A_comparative_analysis/
-├── 📂 data_and_docs/      # Original dataset and preprocessing
-├── 📂 codes/             # Implementation of pricing methods
+├── 📂 FINAL_TRAIN_DATA_AND_ORIGINAL_DATASET/   # Data preprocessing & volatility computation
+├── 📂 EXPLORATORY_ANALYSIS/                    # Initial statistical analysis
+├── 📂 BLACK_SCHOLES/                           # Option pricing models
+├── 📂 MONTECARLO/                              # Simulations and pricing
+├── 📂 XGBOOST/                                 # Machine learning XGBoost models for option pricing
+```
+
+This structure provides a logical progression from raw data preparation to advanced modeling techniques. 🚀
 
 ```
 
